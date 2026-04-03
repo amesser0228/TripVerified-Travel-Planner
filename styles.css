@@ -7,8 +7,8 @@ body {
   background-color: aliceblue;
 }
 .button-div {
-  width: 50%;
-      margin: 0 auto;
+  width: 100%;
+      text-align:center;
 }
 #download-btn {
   display: inline-block;
